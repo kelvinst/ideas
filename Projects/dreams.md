@@ -5,6 +5,8 @@ D - Doing
 V - Done
 X - Cancelled
 
+- [P] Fazer um texto sobre o que experenciei de **choque cultural** durante o
+SMS e enviar para aniagreenwood@steiger.com e wendy@steiger.com
 - [P] **Uma verdade incoveniente** - Pregação e speaking tour para incentivar
 pessoas que normalmente não se interessam sobre missões porque são
 introvertidos, não se sentem chamados a pregar pra multidões ou não são tão
@@ -48,3 +50,6 @@ geral)
 - [ ] Amar a Ju como Jesus amou o mundo (SEM PREGUIÇA)
 - [ ] Casa Comunitária em Curitiba, não necessáriamente a gente sendo a gente o
 líder da casa
+- [ ] Ter um produto que me sustenta sem eu precisar trabalhar tanto, para
+focar mais em missões
+- [ ] 500Startups com minha empresa (produto cristão de preferência)

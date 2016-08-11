@@ -45,19 +45,27 @@ computadores e o cara que cuida das finanças.
   - Uma pregação como a do David
   - Eu sei o que você tá pensando, não sou chamado para ser missionário
   - Testemunho (não quis ir para o Steiger de cara)
-  - Grande comissão (referência)
+  - Grande comissão: Mc 16:15
   - Referência na Bíblia: Lc 8:26-34
   - Use seu dom para o reino, pregue o evangelho usando o que Deus te deu
   - Não se sinta melhor ou pior que alguém: 1 Co 12:12-26
   - Ser missionário não é glamouroso
 - Estudar na Bíblia pessoas que tiveram tarefas diferentes no reino
-  - Paulo (o exemplo de missionário como vemos)
+  - Paulo (o exemplo de missionário)
+  - Pedro (qual foi o papel principal dele?)
   - Neemias
   - Estevão
+  - Noé
+  - Abraão
+  - Israel
+  - Moisés
+  - O posesso geraseno
 - Follow up em uma plataforma para esse tipo de pessoa se envolver sem ter muito
 trabalho
   - Cadastro de pessoas que querem se envolver e das habilidades que eles têm
   - Cadastro de oportunidades para se envolver em cada habilidade
+  - Mas a parte mais importante é o follow up e criar uma comunidade de pessoas
+  que se encontram cara a cara para isso
 
 ## 6. EXECUTE
 
