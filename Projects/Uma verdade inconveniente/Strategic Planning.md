@@ -22,9 +22,8 @@ alguma forma projetos que precisam das habilidades que eles tem.
 - Grande comissão, missionários como mandamento
 - Falar de uma forma gentil, você pode ser missionário onde você está, usando os
 dons que Deus te deu
-- Foco nas pessoas que não se sentem chamadas para falar com pessoas e a falar
-em público, nem a viajar pelo mundo falando sobre Jesus
-- A longo prazo vejo se tornando um Speaking Tour.
+- Oportunidade para as pessoas que não se sentem chamadas para falar com pessoas
+e a falar em público, nem a viajar pelo mundo falando sobre Jesus
 
 ## 3. DEFINE WHERE YOU ARE NOW
 
@@ -37,19 +36,20 @@ computadores e o cara que cuida das finanças.
 ## 4. IDENTIFY THE NEEDED RESOURCES
 
 - Um programador para a plataforma
-- Um pregador para fazer a chamada
+- Um pregador para fazer o chamado
 
 ## 5. DEVELOP A PLAN
 
 - Pregação de chamada:
-  - Uma pregação como a do David
-  - Eu sei o que você tá pensando, não sou chamado para ser missionário
-  - Testemunho (não quis ir para o Steiger de cara)
   - Grande comissão: Mc 16:15
+  - Eu sei o que você tá pensando, não tenho o dom de falar com pessoas
+  - Testemunho (não quis ir para o Steiger de cara, e também odeio pessoas)
+  - Mas será que ser missionário é o único jeito de pregar o evangelho?
   - Referência na Bíblia: Lc 8:26-34
+  - Isso quer dizer que pode ser confortável? Com certeza não
   - Use seu dom para o reino, pregue o evangelho usando o que Deus te deu
   - Não se sinta melhor ou pior que alguém: 1 Co 12:12-26
-  - Ser missionário não é glamouroso
+  - Ninguém no reino é mais do que ninguém
 - Estudar na Bíblia pessoas que tiveram tarefas diferentes no reino
   - Paulo (o exemplo de missionário)
   - Pedro (qual foi o papel principal dele?)
@@ -59,13 +59,17 @@ computadores e o cara que cuida das finanças.
   - Abraão
   - Israel
   - Moisés
-  - O posesso geraseno
+  - O posseso geraseno
+  - Tiago e o etíope
+  - José do Egito
 - Follow up em uma plataforma para esse tipo de pessoa se envolver sem ter muito
 trabalho
   - Cadastro de pessoas que querem se envolver e das habilidades que eles têm
   - Cadastro de oportunidades para se envolver em cada habilidade
   - Mas a parte mais importante é o follow up e criar uma comunidade de pessoas
   que se encontram cara a cara para isso
+  - Tem que haver incentivo de cima pra baixo, com o pessoal que fez a app se
+  envolvendo também na comunidade
 
 ## 6. EXECUTE
 

@@ -3,8 +3,14 @@
 - TODO Comprar passagem de onibus para Praga
 - TODO Não esquecer do depósito
 - TODO Ver qual o horário do primeiro ônibus
+- TODO Ver com alguém se conseguimos dormir em Dresden no dia 17, para
+economizar tempo
 
 ## Krogis
+
+- Arrumar as coisas
+  - Mala da Ju
+  - Mala do Kelvin
 
 ## Dresden
 
@@ -49,6 +55,9 @@
 
 ## Zurich
 
+- Altstadt
+
+
 ## Tirol
 
 ## Bolzano
@@ -70,3 +79,10 @@
 - Catedral São Estevão
 - Museus Gêmeos - historia natural e história da arte
 - Schornburn
+
+# Praga
+
+- Arrumar as coisas
+  - Mala da Ju
+  - Mala do Kelvin
+

@@ -31,7 +31,6 @@ gente
 formato mais informal só que planejado do início ao fim e com uma continuidade
 - [ ] Estudo sobre o que é nosso papel e o que é papel do Espírito Santo
 - [ ] Gólgota Blumenau
-- [ ] Diário
 - [ ] Estudo sobre as liberdades que as disciplinas espirituais nos trazem
 - [ ] Motorhome missions
 - [ ] Mágica, alquimia, vida eterna e Jesus - como a vida eterna foi algo sempre
@@ -53,3 +52,14 @@ líder da casa
 - [ ] Ter um produto que me sustenta sem eu precisar trabalhar tanto, para
 focar mais em missões
 - [ ] 500Startups com minha empresa (produto cristão de preferência)
+- [ ] Estudo: "Deus muda de opinião? Deus se arrepende? Deus sabe de tudo o que
+vai acontecer? A gente consegue mudar o que Deus já sabe que vai acontecer?" -
+pesquisar diferentes opiniões sobre isso nos pais da igreja e etc.
+- [ ] Estilo de liderança Teo/Cristocrática - estudar, aplicar, [speaking tour?]
+- [ ] Estudo: "Por que o plano de Deus é como é?" - sobre a cosmovisão cristã:
+criação, queda, salvação e redenção
+- [ ] Estudo: "Deus castiga ou não castiga?"
+- [ ] Pregação, estudo ou outreach mostrando o quanto ação social sem humildade
+é vazio
+
+- [V] **Diário**
