@@ -39,6 +39,8 @@ achieve this intented fun side
   a pornography site
   - That being said, we can also make a list of features that could be included
   to our future roadmap
+- In the meantime, we should get all the material Steiger have about the virgin
+man
 - And then, the next steps could be:
   1. Develop a basic version that detects when the user access pornography
   sites and send an email to another person
